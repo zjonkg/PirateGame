@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/PirateGameFixed/src/model/entities/EnemyManager.java</file>
+            <file>file:/F:/PirateGameFixed/src/model/objects/Spike.java</file>
+            <file>file:/F:/PirateGameFixed/src/model/utils/Constants.java</file>
+            <file>file:/F:/PirateGameFixed/src/view/main/GameWindow.java</file>
+            <file>file:/F:/PirateGameFixed/src/view/main/MainClass.java</file>
+            <file>file:/F:/PirateGameFixed/src/model/jfx/Trail.java</file>
+            <file>file:/F:/PirateGameFixed/src/model/entities/Player.java</file>
+            <file>file:/F:/PirateGameFixed/src/model/entities/Enemy.java</file>
+            <file>file:/F:/PirateGameFixed/src/controller/gamestates/Playing.java</file>
+            <file>file:/F:/PirateGameFixed/src/controller/gamestates/Menu.java</file>
+            <file>file:/F:/PirateGameFixed/src/controller/levels/Level.java</file>
+            <file>file:/F:/PirateGameFixed/src/model/objects/GameContainer.java</file>
+            <file>file:/F:/PirateGameFixed/src/model/entities/Crabby.java</file>
+            <file>file:/F:/PirateGameFixed/src/model/objects/ObjectManager.java</file>
+            <file>file:/F:/PirateGameFixed/src/model/entities/Bomb.java</file>
+        </group>
+    </open-files>
+</project-private>
